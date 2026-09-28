@@ -85,8 +85,7 @@ void loop() {
       Serial.print(" | [Lidos nesta sessao: ");
       Serial.print(sessaoAtual.size());
       Serial.println("]");
-    } else {
-      Serial.println(" Fora de alcance ");
+    } else {c:\Users\lucas\OneDrive\Documents\projeto_geral_baja\baja_piratas_do_vale\eletrica\hardware\datasheets\.gitkeep.txt
     }
       
     delay(100);
